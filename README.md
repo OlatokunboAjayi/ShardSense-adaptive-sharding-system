@@ -104,4 +104,4 @@ We welcome PRs for:
 - Kubernetes operator integrations.
 
 ---
-*Built with ❤️ by [Tokunbo Ajayi](https://github.com/tokunboajayi)*
+*Built with ❤️ by [Tokunbo Ajayi](https://github.com/OlatokunboAjayi)*
